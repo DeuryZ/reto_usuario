@@ -1,5 +1,6 @@
 ### CREATE DATABASE
 
+   ```sql
 CREATE DATABASE IF NOT EXISTS pruebas;
 USE pruebas;
 CREATE TABLE tblUsuarios (
@@ -15,7 +16,7 @@ CREATE TABLE tblUsuarios (
    saldo FLOAT,
    activo BOOLEAN
 );
-
+   ```
 ### DATA
 
 USE pruebas;
