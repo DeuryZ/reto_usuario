@@ -19,6 +19,7 @@ CREATE TABLE tblUsuarios (
    ```
 ### DATA
 
+   ```sql
 USE pruebas;
 INSERT INTO tblUsuarios 
 VALUES 
@@ -43,6 +44,7 @@ VALUES
 ('19','LET4015','LETICIA','M','2','leticia@yahoo.com','655-143-4019','BLACKBERRY','UNEFON','100','1'),
 ('20','LUI1076','LUIS','H','3','luis2@live.com','655-100-5085','SONY','UNEFON','150','1'),
 ('21','HUG5441','HUGO','H','2','hugo@live.com','655-137-3935','MOTOROLA','AT&T','500','1');
+   ```
 
 ### Bloque 1
 
